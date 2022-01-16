@@ -261,8 +261,6 @@ console.log(`You lived ${secondInYear * year} seconds`);
 ### 18) Create a human readable time format using the Date time object
 
 YYYY-MM-DD HH:mm
-DD-MM-YYYY HH:mm
-DD/MM/YYYY HH:mm
 
 ```
 let d = new Date();
