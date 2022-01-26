@@ -1,4 +1,4 @@
-### 1) Declare an empty array;
+### 1) Declare an empty array
 
 ```
 const arr = [];
@@ -83,7 +83,7 @@ itCompanies[6] = itCompanies[6].toUpperCase();
 console.log(itCompanies);
 ```
 
-### 12) Print the array like as a sentence: Facebook, Google, Microsoft, Apple, IBM,Oracle and Amazon are big IT companies.
+### 12) Print the array like as a sentence: Facebook, Google, Microsoft, Apple, IBM,Oracle and Amazon are big IT companies
 
 ```
 console.log(`${itCompanies[0]}${","} ${itCompanies[1]}${","} ${itCompanies[2]}${","} ${itCompanies[3]}${","} ${itCompanies[4]}${","} ${itCompanies[5]}${","} ${itCompanies[6]} ${"are big IT companies"}`);
@@ -207,7 +207,7 @@ let index = shoppingCart.indexOf("Tea");
 shoppingCart[index] = "Green Tea";
 ```
 
-### 26) In countries array check if 'Ethiopia' exists in the array if it exists print 'ETHIOPIA'. If it does not exist add to the countries list.
+### 26) In countries array check if 'Ethiopia' exists in the array if it exists print 'ETHIOPIA'. If it does not exist add to the countries list
 
 const countries = ['Albania', 'Bolivia', 'Canada', 'Denmark', 'Ethiopia','Finland', 'Germany', 'Hungary', 'Ireland', 'Japan', 'Kenya']
 
@@ -220,7 +220,7 @@ else{
 }
 ```
 
-### 27) In the webTechs array check if Sass exists in the array and if it exists print 'Sass is a CSS preprocess'. If it does not exist add Sass to the array and print the array.
+### 27) In the webTechs array check if Sass exists in the array and if it exists print 'Sass is a CSS preprocess'. If it does not exist add Sass to the array and print the array
 
 const webTechs = ['HTML', 'CSS', 'JavaScript', 'React', 'Redux', 'Node','MongoDB']
 
@@ -235,7 +235,7 @@ else{
 console.log(webTechs);
 ```
 
-### 28) Concatenate the following two variables and store it in a fullStack variable.
+### 28) Concatenate the following two variables and store it in a fullStack variable
 
 const frontEnd = ['HTML', 'CSS', 'JS', 'React', 'Redux']
 const backEnd = ['Node','Express', 'MongoDB']
@@ -249,7 +249,7 @@ const fullStack = frontEnd.concat(backEnd);
 console.log(fullStack);
 ```
 
-### 29) The following is an array of 10 students ages:
+### 29) The following is an array of 10 students ages
 
 const ages = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]
 
@@ -307,7 +307,7 @@ else{
 }
 ```
 
-### 31) Divide the countries array into two equal arrays if it is even. If countries array is not even , one more country for the first half.
+### 31) Divide the countries array into two equal arrays if it is even. If countries array is not even , one more country for the first half
 
 ```
 let middle = 0;
